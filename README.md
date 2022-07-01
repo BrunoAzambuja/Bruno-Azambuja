@@ -13,4 +13,4 @@ The projects developed are:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brunoazambuja/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://tabsoft.co/3I8hWTR)  
 
-## You can view all projects developed within my pinned repositories below:
+#### You can view all projects developed within my pinned repositories below:
