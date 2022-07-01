@@ -1,4 +1,4 @@
-#### Hi, this is my Data Science Portfolio
+### Hi, this is my Data Science Portfolio
 My name is Bruno Azambuja, I'm a Brazilian Data Scientist passionate about Machine Learning and all sorts of AI applications.
 
 Originally graduated as a production engineer and postgraduate in project management.
