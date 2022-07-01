@@ -12,4 +12,4 @@ The projects developed in Data Science are:
 
 - [IBM Data Scientist Professional Certificate (10 courses)](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
 - 
-#### You can view all projects developed within my pinned repositories below:
+#### You can also view all projects developed within my pinned repositories below:
