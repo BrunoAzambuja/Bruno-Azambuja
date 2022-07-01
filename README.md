@@ -12,5 +12,4 @@ The projects developed are:
 
 - IBM Data Scientist Professional Certificate (10 courses);
 - 
-
 #### You can view all projects developed within my pinned repositories below:
