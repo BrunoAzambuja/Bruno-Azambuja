@@ -10,6 +10,6 @@ I believe in the power of technological solutions to solve the world's problems.
 
 The projects developed in Data Science are:
 
-- IBM Data Scientist Professional Certificate (10 courses);
+- [IBM Data Scientist Professional Certificate (10 courses)] (https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
 - 
 #### You can view all projects developed within my pinned repositories below:
