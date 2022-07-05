@@ -11,5 +11,5 @@ I believe in the power of technological solutions to solve the world's problems.
 The projects developed in Data Science are:
 
 - [IBM Data Scientist Professional Certificate: 10 courses](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
-- [Boosting online retail sales: data analytics, programming and machine learning.](https://github.com/BrunoAzambuja/boosting-online-retail-sales);
+- [Boosting Online Retail Sales: Data Analytics, Programming and Machine Learning.](https://github.com/BrunoAzambuja/Boosting-Online-Retail-Sales);
 #### You can also view all projects developed within my pinned repositories below:
