@@ -9,12 +9,12 @@ I believe in the power of technological solutions to solve the world's problems.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brunoazambuja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@brunoazambuja_78996)  
 
 
-Portfolio projects developed in Data Science:
+Portfolio projects developed:
 
 - 
 
 
-Study projects developed in Data Science:
+Study projects developed:
 
 - [IBM Data Scientist Professional Certificate: 10 courses](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
 - [Sigmoidal: School of Data Science and Machine Learning](https://github.com/BrunoAzambuja/Sigmoidal-School-of-Data-Science-and-Machine-Learning);
