@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 Portfolio projects developed:
 
-- [IBM Data Scientist Professional Certificate: 10 courses](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
+- [Análise dos dados do Airbnb - Roma](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
 
 
 Study projects developed:
