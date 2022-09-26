@@ -10,7 +10,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 Portfolio projects developed:
 
-- [Análise dos dados do Airbnb: Roma](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
+- [Análise exploratória do Airbnb de Roma](https://github.com/BrunoAzambuja/Analise-dos-dados-do-Airbnb-Roma/blob/main/Analisando_os_Dados_do_Airbnb_Roma.ipynb);
 
 
 Study projects developed:
