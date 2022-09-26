@@ -10,7 +10,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 Portfolio projects developed:
 
-- [Análise Exploratória do Airbnb de Roma](https://github.com/BrunoAzambuja/Analise-Exploratoria-do-Airbnb-de-Roma/blob/main/Analise_Exploratoria_do_Airbnb_de_Roma.ipynb);
+- [Análise Exploratória dos Dados do Airbnb de Roma](https://github.com/BrunoAzambuja/Analise-Exploratoria-do-Airbnb-de-Roma/blob/main/Analise_Exploratoria_do_Airbnb_de_Roma.ipynb);
 
 
 Study projects developed:
