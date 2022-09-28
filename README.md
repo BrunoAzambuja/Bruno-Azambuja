@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Covid 19: Um panorama do mundo e do Brasil](https://github.com/BrunoAzambuja/Analise-Exploratoria-do-Airbnb-de-Roma/blob/main/Analise_Exploratoria_do_Airbnb_de_Roma.ipynb);
+- [Covid 19: Um panorama no mundo e Brasil](https://github.com/BrunoAzambuja/Analise-Exploratoria-do-Airbnb-de-Roma/blob/main/Analise_Exploratoria_do_Airbnb_de_Roma.ipynb);
 
 - [Airbnb em Roma: Uma análise exploratória dos dados](https://github.com/BrunoAzambuja/Airbnb_em_Roma_analise-exploratoria/blob/main/Airbnb_em_Roma_analise_exploratoria_dos_dados.ipynb);
 
