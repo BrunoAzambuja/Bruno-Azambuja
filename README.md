@@ -11,9 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Classificação: Detecção de fraude em cartões de crédito]
-
-- [Classificação aplicado a detecção de fraude em cartões de crédito]
+- [Classificação: Detecção de fraude em cartões de crédito]()
 
 - [Covid-19: Um panorama do mundo e Brasil](https://github.com/BrunoAzambuja/Covid_19_panorama_do_mundo_e_Brasil/blob/main/Covid_19_panorama_do_mundo_e_Brasil.ipynb);
 
