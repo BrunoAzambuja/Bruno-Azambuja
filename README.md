@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Regressão para prever o custo do Seguro de Vida]
+- [Regressão aplicado à previsão de custo do Seguro de Vida]
 
 - [Segmentação de clientes com RFM e machine learning](https://github.com/BrunoAzambuja/Segmentacao_de_Clientes_com_RFM_e_Machine_Learning/blob/main/Segmenta%C3%A7%C3%A3o_de_Clientes_com_RFM_e_Machine_Learning.ipynb);
 
