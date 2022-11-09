@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Segmentação de clientes com RFM e machine learning](https://github.com/BrunoAzambuja/Classificacao_Deteccao_de_Fraude_em_Cartoes_de_Credito/blob/main/Classifica%C3%A7%C3%A3o_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb);
+- [Segmentação de clientes com RFM e machine learning]([https://github.com/BrunoAzambuja/Classificacao_Deteccao_de_Fraude_em_Cartoes_de_Credito/blob/main/Classifica%C3%A7%C3%A3o_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb](https://github.com/BrunoAzambuja/Segmentacao_de_Clientes_com_RFM_e_Machine_Learning/blob/main/Segmenta%C3%A7%C3%A3o_de_Clientes_com_RFM_e_Machine_Learning.ipynb));
 
 - [Detecção de fraude em cartões de crédito com modelos de classificação](https://github.com/BrunoAzambuja/Classificacao_Detecao_de_Fraude_em_Cartoes_de_Credito/blob/main/Classifica%C3%A7%C3%A3o_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb);
 
