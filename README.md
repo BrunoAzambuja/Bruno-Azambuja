@@ -11,6 +11,8 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
+- [Churn Prediction para uma empresa de Telecomunicações](https://github.com/BrunoAzambuja/Churn_Prediction_para_uma_empresa_de_Telecomunicacoes/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
+
 - [Regressão para previsão de custos em seguros de vida](https://github.com/BrunoAzambuja/Regressao_para_previsao_de_custos_em_seguros_de_vida/blob/main/Regress%C3%A3o_para_previs%C3%A3o_de_custos_em_seguros_de_vida.ipynb);
 
 - [Segmentação de clientes com RFM e machine learning](https://github.com/BrunoAzambuja/Segmentacao_de_Clientes_com_RFM_e_Machine_Learning/blob/main/Segmenta%C3%A7%C3%A3o_de_Clientes_com_RFM_e_Machine_Learning.ipynb);
