@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Time Series Forecasting com Prophet]();
+- [Time Series Forecasting com Prophet](https://github.com/BrunoAzambuja/Time_Series_Forecasting_com_Prophet/blob/main/Time_Series_Forecasting_com_Prophet.ipynb);
 
 - [Churn Prediction para uma empresa de telecomunicações](https://github.com/BrunoAzambuja/Churn_Prediction_para_uma_empresa_de_Telecomunicacoes/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb);
 
