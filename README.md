@@ -11,6 +11,8 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
+- [Classificação com AutoML em manutenção preditiva de máquinas](https://github.com/BrunoAzambuja/Classificacao_com_AutoML_em_manutencao_preditiva_de_maquinas/blob/main/Classifica%C3%A7%C3%A3o_com_AutoML_em_manuten%C3%A7%C3%A3o_preditiva_de_m%C3%A1quinas.ipynb);
+
 - [Time series forecasting com Prophet](https://github.com/BrunoAzambuja/Time_series_forecasting_com_Prophet/blob/main/Time_series_forecasting_com_Prophet.ipynb);
 
 - [Churn prediction para uma empresa de telecomunicações](https://github.com/BrunoAzambuja/Churn_prediction_para_uma_empresa_de_telecomunicacoes/blob/main/Churn_prediction_para_uma_empresa_de_telecomunica%C3%A7%C3%B5es.ipynb);
