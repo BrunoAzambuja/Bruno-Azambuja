@@ -17,7 +17,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 - [Churn prediction para uma empresa de telecomunicações](https://github.com/BrunoAzambuja/Churn_prediction_para_uma_empresa_de_telecomunicacoes/blob/main/Churn_prediction_para_uma_empresa_de_telecomunica%C3%A7%C3%B5es.ipynb);
 
-- [Regressão para previsão de custos em seguros de vida](https://github.com/BrunoAzambuja/Regressao_para_previsao_de_custos_em_seguros_de_vida/blob/main/Regress%C3%A3o_para_previs%C3%A3o_de_custos_em_seguros_de_vida.ipynb);
+- [Health Insurance Cost Prediction](https://github.com/BrunoAzambuja/Regressao_para_previsao_de_custos_em_seguros_de_vida/blob/main/Regress%C3%A3o_para_previs%C3%A3o_de_custos_em_seguros_de_vida.ipynb);
 
 - [Segmentação de clientes com análise RFM](https://github.com/BrunoAzambuja/Segmentacao_de_clientes_com_analise_RFM/blob/main/Segmenta%C3%A7%C3%A3o_de_clientes_com_analise_RFM.ipynb);
 
