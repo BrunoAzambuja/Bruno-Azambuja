@@ -11,6 +11,8 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
+- [Classificação para análise de risco de crédito](https://github.com/BrunoAzambuja/Classifica-o_para_an-lise_de_risco_de_cr-dito/blob/main/Classifica%C3%A7%C3%A3o_para_an%C3%A1lise_de_risco_de_cr%C3%A9dito.ipynb)
+
 - [Classificação com AutoML para previsão de falhas em máquinas](https://github.com/BrunoAzambuja/Classificacao_com_AutoML_em_manutencao_preditiva_de_maquinas/blob/main/Classifica%C3%A7%C3%A3o_com_AutoML_em_manuten%C3%A7%C3%A3o_preditiva_de_m%C3%A1quinas.ipynb);
 
 - [Time series forecasting com Prophet](https://github.com/BrunoAzambuja/Time_series_forecasting_com_Prophet/blob/main/Time_series_forecasting_com_Prophet.ipynb);
