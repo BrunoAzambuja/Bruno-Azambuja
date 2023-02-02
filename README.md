@@ -25,7 +25,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 - [Segmentação de clientes com análise RFM](https://github.com/BrunoAzambuja/Segmentacao_de_clientes_com_analise_RFM/blob/main/Segmenta%C3%A7%C3%A3o_de_clientes_com_analise_RFM.ipynb);
 
-- [Classificação como detecção de fraude em cartões de crédito](https://github.com/BrunoAzambuja/Classificacao_deteccao_de_fraude_em_cartoes_de_credito/blob/main/Classifica%C3%A7%C3%A3o_detec%C3%A7%C3%A3o_de_fraude_em_cart%C3%B5es_de_cr%C3%A9dito.ipynb);
+- [Classificação como detecção de fraude](https://github.com/BrunoAzambuja/Classificacao_deteccao_de_fraude_em_cartoes_de_credito/blob/main/Classifica%C3%A7%C3%A3o_detec%C3%A7%C3%A3o_de_fraude_em_cart%C3%B5es_de_cr%C3%A9dito.ipynb);
 
 - [Um panorama do covid-19 no mundo e Brasil ](https://github.com/BrunoAzambuja/Covid_19_panorama_do_mundo_e_Brasil/blob/main/Covid_19_panorama_do_mundo_e_Brasil.ipynb);
 
