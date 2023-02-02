@@ -30,10 +30,3 @@ I believe in the power of technological solutions to solve the world's problems.
 - [Um panorama do covid-19 no mundo e Brasil ](https://github.com/BrunoAzambuja/Covid_19_panorama_do_mundo_e_Brasil/blob/main/Covid_19_panorama_do_mundo_e_Brasil.ipynb);
 
 - [Uma demonstração dos dados abertos do Airbnb em Roma](https://github.com/BrunoAzambuja/Airbnb_em_Roma_analise-exploratoria/blob/main/Airbnb_em_Roma_analise_exploratoria_dos_dados.ipynb).
-
-
-#### Study projects developed:
-
-- [IBM data scientist professional certificate: 10 courses](https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate);
-
-- [Sigmoidal: school of data science and machine learning](https://github.com/BrunoAzambuja/Sigmoidal-School-of-Data-Science-and-Machine-Learning).
