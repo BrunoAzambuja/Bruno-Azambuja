@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Previsão de degradação e detecção de anomalias em componentes]();
+- [Previsão de degradação e detecção de anomalias em componentes](https://github.com/BrunoAzambuja/Previsao_e_detecao_de_falha_de_motores_a_jato_Turbofan_da_NASA/blob/main/Previs%C3%A3o_e_detec%C3%A7%C3%A3o_de_falha_de_motores_a_jato_Turbofan_da_NASA.ipynb);
 
 - [Detecção de fake news com redes neurais](https://github.com/BrunoAzambuja/Deteccao_de_fake_news_com_redes_neurais/blob/main/Detec%C3%A7%C3%A3o_de_fake_news_com_redes_neurais.ipynb);
 
