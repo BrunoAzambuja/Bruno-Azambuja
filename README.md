@@ -11,7 +11,7 @@ I believe in the power of technological solutions to solve the world's problems.
 
 #### Portfolio projects developed:
 
-- [Sistema de recomendação em tempo real com PySpark, Spark Streaming e Kafka]();
+- [Sistema de recomendação em tempo real com PySpark, Spark Streaming e Kafka](https://github.com/BrunoAzambuja/Sistema_Recomendacao_Tempo_Real/blob/main/Sistema_Recomenda%C3%A7%C3%A3o_Tempo_Real.ipynb);
 
 - [Detecção de anomalias e previsão de degradação em componentes](https://github.com/BrunoAzambuja/Previsao_e_detecao_de_falha_de_motores_a_jato_Turbofan_da_NASA/blob/main/Previs%C3%A3o_e_detec%C3%A7%C3%A3o_de_falha_de_motores_a_jato_Turbofan_da_NASA.ipynb);
 
